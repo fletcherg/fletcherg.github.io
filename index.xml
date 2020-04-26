@@ -7,10 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 26 Apr 2020 16:03:15 +1200</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2020 16:31:49 +1200</lastBuildDate>
     
 	<atom:link href="https://fletcherg.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://fletcherg.github.io/about/</link>
+      <pubDate>Sun, 26 Apr 2020 16:31:49 +1200</pubDate>
+      
+      <guid>https://fletcherg.github.io/about/</guid>
+      <description>Kia ora! This is my humble page, currently I work as a Technical Architect in New Zealand.
+Lately most of my interests have been aligned around:
+ Enterprise/business architecture Data and analytics Cloud strategy and adoption Mathematics and statistics Infrastructure C#/JS/scripting  and outside of technology:
+ Philosophy Cosmology Kettlebells Martial arts/self defense Jazz  Feel free to reach out if I may be able to assist at all.
+Note any opinions here are mine alone and may not represent my employers.</description>
+    </item>
     
     <item>
       <title>My First Post</title>
